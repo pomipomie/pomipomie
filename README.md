@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Xiomara, you can call me Xio or Pomi</h1>
-<h2 align="center">I'm frontend developer with backend knowledge from Argentina</h2>
+# Hi 👋, I'm Xiomara, you can call me Xio or Pomi
+### I'm frontend developer with backend knowledge from Argentina
 <br />
 
 # 💫 About Me:
@@ -8,7 +8,7 @@
 
 - 🔭 Currently working on [my portfolio](https://github.com/pomipomie/Portfolio_React)
 
-- 🌱 I’m currently learning **Godot, QA automation, Next.js, React Native and Docker**
+- 🌱 I’m currently learning **Godot, QA automation, Next.js, React Native** and **Docker**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-react-mxb.web.app/](https://portfolio-react-mxb.web.app/)
 
@@ -20,10 +20,8 @@
 
 - ⚡ Random fact: I graduated from UNS Law School
 <br />
-<br />
 
 ## 💻 See my work:
------
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pomipomie/)
 [![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/pomipomie)
 [![CodeSandbox](https://img.shields.io/badge/Codesandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=DBDBDB)](https://codesandbox.io/u/pomipomie)
@@ -32,7 +30,6 @@
 <br />
 
 ## 📱 Connect with me:
-------
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mxbadano@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xiomara-badano/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/xio_b)
@@ -46,7 +43,6 @@
 <br />
 
 ## 📜 Languages:
-------
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -61,7 +57,6 @@
 <br />
 
 ## 📚 Libraries and Frameworks
--------
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
@@ -77,20 +72,17 @@
 <br />
 
 ## ✨ Styling Libraries, Frameworks and Pre-processors
-------
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 <br />
 
 ## 💿 Databases
---------
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firestore](https://img.shields.io/badge/Firestore-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 <br />
 
 ## 🎨 Art & design
---------
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
@@ -100,7 +92,6 @@
 <br />
 
 ## 📂 Version Control Management
---------
 ![Git](https://img.shields.io/badge/git-%23CC342D.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23f0957a.svg?style=for-the-badge&logo=gitlab&logoColor=white) 
@@ -108,7 +99,6 @@
 <br />
 
 ## 📦 Transpilers, Bundlers & Package managers
--------
 ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black) 
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
@@ -118,7 +108,6 @@
 <br />
 
 ## 🔗 Deploy & Hosting
-------
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Qoddi](https://img.shields.io/badge/qoddi-%23091794.svg?style=for-the-badge&logo=quora&logoColor=white)
@@ -128,7 +117,6 @@
 <br />
 
 ## 🔎 Testing & QA
--------
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Spira](https://img.shields.io/badge/🟧%20spira-%23E34F26.svg?style=for-the-badge&logo=spira&logoColor=white) 
 ![Rapise](https://img.shields.io/badge/🟣%20rapise-%23593d88.svg?style=for-the-badge&logo=rapise&logoColor=white)
@@ -136,7 +124,6 @@
 <br />
 
 ## 🔨 Other tools and skills
--------
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 ![Terminal](https://img.shields.io/badge/terminal-%23DD0031.svg?style=for-the-badge&logo=powershell&logoColor=white)
@@ -148,7 +135,6 @@
 <br />
 
 ## 📖 I learned from:
----------
 ![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)
 ![W3Schools](https://img.shields.io/badge/w3schools-%23099443.svg?style=for-the-badge&logo=w3c&logoColor=white)
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
