@@ -1,5 +1,5 @@
 # Hi 👋, I'm Xiomara, you can call me Xio or Pomi
-### I'm frontend developer with backend knowledge from Argentina
+### I'm a frontend developer with backend knowledge from Argentina
 <br />
 
 # 💫 About Me:
