@@ -6,7 +6,7 @@
 
 - 😄 Pronouns: she/her
 
-- 🔭 Currently working on [a new portfolio](still now uploaded)
+- 🔭 Currently working on [a new portfolio](still not uploaded)
 
 - 🌱 I’m currently learning **Next.js, Nest.js, MongoDB, C++** and **Docker**
 
